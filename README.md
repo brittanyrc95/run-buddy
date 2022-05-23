@@ -13,4 +13,5 @@ https://brittanyrc95.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Brittany Carlton
 
-# Run Buddy Inc.
+
+### ©️2019 Run Buddy, Inc
